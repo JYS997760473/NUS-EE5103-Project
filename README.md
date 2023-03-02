@@ -35,3 +35,5 @@ Run:
 ## Demo for Project3
 
 <img src="./images/project3.jpg" alt="isolated" width="600"/>
+
+More details can be found in `report.pdf`.
